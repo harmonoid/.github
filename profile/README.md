@@ -56,7 +56,7 @@
 - Discord RPC integration.
 - Context menu integrations & file associations.
 - mpv backend.
-- Lyrics support (.LRC, tags, online).
+- Lyrics support (LRC, tags & online).
 - Playlists support.
 - Online URLs support.
 - Multiple artist & genre support.
